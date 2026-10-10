@@ -16,7 +16,7 @@ footer{background:#111;color:#aaa;padding:20px;text-align:center}
 <header><h2>KAMPALA STORE 🇺🇬</h2></header>
 <div class='hero'><h1>Welcome to My Website!</h1><p>Built on phone with Flask</p><a class='btn' href='#'>Shop Now</a></div>
 <div class='card'><h3>🔥 Our Services</h3><p>We sell quality products in Kampala. Fast delivery!</p></div>
-<div class='card'><h3>📞 Contact</h3><p>WhatsApp: 07XX XXX XXX<br>Location: Kampala, Uganda</p></div>
+<div class='card'><h3>📞 Contact</h3><p>WhatsApp: 0708 839 598<br>Location: Kampala, Uganda</p></div>
 <footer>© 2026 Kampala Store - Built on Tecno Camon 20</footer>
 </body></html>
     """
